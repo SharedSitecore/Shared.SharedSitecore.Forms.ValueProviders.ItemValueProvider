@@ -1,2 +1,2 @@
-# SharedSitecore.Forms.ValueProviders.ItemValueProvider
+# Shared.SharedSitecore.Forms.ValueProviders.ItemValueProvider
 Sitecore Forms Item ValueProvider
